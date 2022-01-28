@@ -24,7 +24,7 @@ title: Blog
   <summary>What are you excited or eager to learn more about?</summary>
 
   <br />
-  I am excited to dig deeper into Web Development and lay a basic foundation of knowledge that I can build upon. I have a basic understand of HTML and CSS, but look forward to diving into Javascript! I am eager to learn about the backend of development to understand how everything works behind the scene.
+  I am excited to dig deeper into Web Development and lay a basic foundation of knowledge that I can build upon. I have a basic understanding of HTML and CSS, but look forward to diving into Javascript! I am eager to learn about the backend of development to understand how everything works behind the scene.
   
  </details>
  
@@ -33,7 +33,7 @@ title: Blog
   <summary>What is something about you that can only be learned by reading this blog?</summary>
 
   <br />
-    I have never written a blog before, nor have I realized that I would enjoy it as much before starting this one. I look forward to updating it weekly so you can follow along with my journey. I am a deep-thinker, I have the ability to see every side of situations and I tend to live very peaceful in my own world. 
+    I have never written a blog before, nor have I realized that I would enjoy it as much before starting this one. I look forward to updating it weekly so you can follow along with my journey. I am a deep-thinker, I have the ability to see every side of situations and I tend to live very peacefully in my own world. 
   
   </details>
   
