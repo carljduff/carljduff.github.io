@@ -1,1 +1,1 @@
-# carljduff.github.io
+This is a blog that will follow along with my journey at Awesome Inc!
