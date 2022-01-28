@@ -32,7 +32,7 @@ layout: post
   <summary>What is something about you that can only be learned by reading this blog?</summary>
 
   <br />
-    I have never written a blog before, nor have I realized that I would enjoy it as much before starting this one. I look forward to updating it weekly so you can follow along with my journey. I am a deep-thinker, I have the ability to see every side of situations and I tend to live very peaceful in my own world. 
+    I have never written a blog before, nor have I realized that I would enjoy it as much before starting this one. I look forward to updating it weekly so you can follow along with my journey. I've had four jobs since I started working at 16. I was at my first job for two years, the second a year, the third eight years and my most recent job going on four years. During this bootcamp will be the first time I've not worked since I've been 16.
   
   </details>
   
