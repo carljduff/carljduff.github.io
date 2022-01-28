@@ -2,7 +2,7 @@
 layout: post
 ---
 
-
+### _Follow along as I grow through my journey of becoming a Web Developer!_ 
 
 # Week One | Git & GitHub
 
