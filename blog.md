@@ -3,7 +3,7 @@ layout: post
 title: Blog
 ---
 
-### _Follow along as I grow through my journey of becoming a Web Developer!_ 
+##### _Follow along as I grow through my journey of becoming a Web Developer!_ 
 
 # Week One | Git & GitHub
 
