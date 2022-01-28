@@ -40,9 +40,9 @@ title: Blog
   ```javascript 
   function webDev() {
   if (jordan === completeBootcamp) {
-  console.log("Jordan will be a Web Developer! 😄");
+  console.log("Jordan will be a Web Developer!");
   } else {
-  console.log("Jordan will be sad! 😢"); 
+  console.log("Jordan will be sad!"); 
   } 
   });
   ```
