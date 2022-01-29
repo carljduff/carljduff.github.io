@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 #### 🐕 This is Benny and Hank! 🐕
 
 ![BH](/img/IMG_5177.jpeg)

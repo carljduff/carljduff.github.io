@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Blog
 ---
 
 ##### _Follow along as I grow through my journey of becoming a Web Developer!_ 
@@ -23,7 +24,7 @@ layout: post
   <summary>What are you excited or eager to learn more about?</summary>
 
   <br />
-  I am excited to dig deeper into Web Development and lay a basic foundation of knowledge that I can build upon. I have a basic understand of HTML and CSS, but look forward to diving into Javascript! I am eager to learn about the backend of development to understand how everything works behind the scene.
+  I am excited to dig deeper into Web Development and lay a basic foundation of knowledge that I can build upon. I have a basic understanding of HTML and CSS, but look forward to diving into Javascript! I am eager to learn about the backend of development to understand how everything works behind the scene.
   
  </details>
  
@@ -32,6 +33,7 @@ layout: post
   <summary>What is something about you that can only be learned by reading this blog?</summary>
 
   <br />
+
     I have never written a blog before, nor have I realized that I would enjoy it as much before starting this one. I look forward to updating it weekly so you can follow along with my journey. I've had four jobs since I started working at 16. I was at my first job for two years, the second a year, the third eight years and my most recent job going on four years. During this bootcamp will be the first time I've not worked since I've been 16.
   
   </details>
@@ -39,9 +41,9 @@ layout: post
   ```javascript 
   function webDev() {
   if (jordan === completeBootcamp) {
-  console.log("Jordan will be a Web Developer! 😄");
+  console.log("Jordan will be a Web Developer!");
   } else {
-  console.log("Jordan will be sad! 😢"); 
+  console.log("Jordan will be sad!"); 
   } 
   });
   ```
