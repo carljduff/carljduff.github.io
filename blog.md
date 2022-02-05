@@ -3,7 +3,18 @@ layout: post
 title: Blog
 ---
 
+ ```javascript 
+  function webDev() {
+  if (jordan === completeBootcamp) {
+  console.log("Jordan will be a Web Developer!");
+  } else {
+  console.log("Jordan will be sad!"); 
+  } 
+  });
+  ```
+
 ##### _Follow along as I grow through my journey of becoming a Web Developer!_ 
+
 
 # Week One | Git & GitHub
 
@@ -82,12 +93,4 @@ At the moment, I am struggling with remembering to commit while doing a project.
 
 
 
-  ```javascript 
-  function webDev() {
-  if (jordan === completeBootcamp) {
-  console.log("Jordan will be a Web Developer!");
-  } else {
-  console.log("Jordan will be sad!"); 
-  } 
-  });
-  ```
+ 
