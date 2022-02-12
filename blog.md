@@ -1,8 +1,3 @@
----
-layout: post
-title: Blog
----
-
 ## Hello, Welcome to my Blog.
 
 [Week One: Git & Github](/posts/2022-01-28-weekone.md)
