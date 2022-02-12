@@ -9,7 +9,7 @@ title: "Week Three"
 
 Just like Dorthy said:
 
-> Toto, I have a feeling we're
+> "Toto, I have a feeling we're
 > not in Kansas anymore.”
 
 <hr>
