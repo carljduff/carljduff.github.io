@@ -6,6 +6,8 @@ title: It's A Start
 
 <hr>
 
+<br>
+
 ### &nbsp;&nbsp;&nbsp;&nbsp;Have you ever thought about coding and what all you could create if you simply \*could\*? I thought about this and it was a thought that didn't go away, so here I am. I know that I will be pushed to my limit, but nothing good comes easy.
 
 <br>
@@ -16,3 +18,5 @@ title: It's A Start
 
 [Weekly Updates](/blog.md)  
  [About Me](/about.md)
+ 
+ <hr>
