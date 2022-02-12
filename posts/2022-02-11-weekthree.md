@@ -11,3 +11,23 @@ Just like Dorthy said:
 
 > Toto, I have a feeling we're
 > not in Kansas anymore.”
+
+<details>
+
+<summary>What are your thoughts about the roles HTML, CSS, and JavaScript play in the process of rendering content and providing a user experience?</summary>
+
+<br />
+
+I love the way everything works together to provide the user experience. HTML is the backbone, CSS is the look, and Javascript is the act! Learning Javascript at a base level was rewarding. Each has such an important role in the user experience.
+
+</details>
+
+<details>
+
+<summary>What are some objects that your blog incorporates?</summary>
+
+<br />
+
+At the moment, all my blog incorporates is markdown. I'm excited to update it as we move forward!
+
+</details>
