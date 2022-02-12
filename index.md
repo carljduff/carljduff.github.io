@@ -1,5 +1,5 @@
 ---
-title: It's A Start
+title: Main Page
 ---
 
 # Awesome Inc. Bootcamp - A Passage to the Future
