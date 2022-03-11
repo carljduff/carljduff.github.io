@@ -1,4 +1,4 @@
-body {
+body.landing {
     background-image: url('/img/markus-spiske-cvBBO4PzWPg-unsplash.jpg')
 
 }
@@ -13,3 +13,6 @@ body {
     border-radius: 20px;
 }
 
+a:link, a:visited {
+    text-decoration: none !important;
+}
