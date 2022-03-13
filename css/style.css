@@ -1,0 +1,18 @@
+body.landing {
+    background-image: url('/img/markus-spiske-cvBBO4PzWPg-unsplash.jpg')
+
+}
+
+
+
+.container {
+    margin-top: 25vh !important;
+}
+
+.main {
+    border-radius: 20px;
+}
+
+a:link, a:visited {
+    text-decoration: none !important;
+}
