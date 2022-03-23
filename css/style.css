@@ -5,14 +5,35 @@ body.landing {
 
 
 
-.container {
+/* .container {
     margin-top: 25vh !important;
-}
+} */
 
+/* .aboutpage {
+    margin-top: 25vh;
+} */
 .main {
     border-radius: 20px;
 }
 
 a:link, a:visited {
     text-decoration: none !important;
+}
+
+.about {
+    max-width: 500px;
+    max-height: 500px;
+    margin: auto;
+}
+.about-img {
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+    float: left;
+    margin-right: 10px;
+}
+
+.about-text {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: larger;
 }
