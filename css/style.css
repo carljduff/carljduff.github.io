@@ -37,3 +37,32 @@ a:link, a:visited {
     font-family: 'Cormorant Garamond', serif;
     font-size: larger;
 }
+
+img {
+    width: 405px;
+    height: 200px;
+}
+
+@media only screen and (max-width: 320px) {
+   img{
+        width: 247px;
+   }
+}
+
+@media only screen and (max-width: 375px) {
+    img{
+         width: 301px;
+    }
+ }
+
+ @media only screen and (max-width: 425px) {
+    img{
+         width: 351px;
+    }
+ }
+
+ @media only screen and (max-width: 1024px) {
+    img{
+         width: 247px;
+    }
+ }
